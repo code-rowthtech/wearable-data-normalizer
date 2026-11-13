@@ -1,0 +1,44 @@
+[
+  {
+    "id": "8f2524e27147b56100ac961c8f2231d652a682ed8f6af6dc3c24bde8ddd9b414",
+    "source": "apple-health",
+    "sourceRecord": "Synthetic Watch",
+    "metric": "steps",
+    "value": 300,
+    "unit": "count",
+    "period": {
+      "date": "2026-01-01",
+      "start": "2026-01-01T10:00:00.000Z",
+      "end": "2026-01-01T11:00:00.000Z",
+      "precision": "interval"
+    }
+  },
+  {
+    "id": "b2e683821b496435bafa44d75f2416d8ff6861f1d05d00cfeac6a30a1068baac",
+    "source": "fitbit",
+    "sourceRecord": "day:2026-01-01",
+    "metric": "steps",
+    "value": 4200,
+    "unit": "count",
+    "period": {
+      "date": "2026-01-01",
+      "start": null,
+      "end": null,
+      "precision": "day"
+    }
+  },
+  {
+    "id": "4f0c50c2838d7225df935505d011dd943276a72344b4fe5d515d444d0f23eb07",
+    "source": "oura",
+    "sourceRecord": "synthetic-oura-001",
+    "metric": "steps",
+    "value": 3900,
+    "unit": "count",
+    "period": {
+      "date": "2026-01-01",
+      "start": null,
+      "end": null,
+      "precision": "day"
+    }
+  }
+]

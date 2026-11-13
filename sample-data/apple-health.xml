@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HealthData locale="en_US">
+<Record type="HKQuantityTypeIdentifierStepCount" sourceName="Synthetic Watch" unit="count" startDate="2026-01-01 10:00:00 +0000" endDate="2026-01-01 11:00:00 +0000" value="300"/>
+</HealthData>

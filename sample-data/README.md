@@ -1,0 +1,1 @@
+All fixtures in this directory are invented synthetic data. No real people, client code, production exports or credentials are included. Identifiers beginning SYNTHETIC or synthetic are deliberately non-production. Do not submit them to a live exchange.

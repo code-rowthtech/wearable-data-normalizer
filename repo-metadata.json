@@ -1,0 +1,16 @@
+{
+  "name": "wearable-data-normalizer",
+  "description": "Normalize invented Fitbit, Apple Health and Oura step records without losing time precision or source provenance.",
+  "topics": [
+    "healthcare",
+    "wearables",
+    "rpm",
+    "typescript",
+    "data-engineering"
+  ],
+  "priority": "P1",
+  "market": "US",
+  "sampleStatus": "ready-for-documented-offline-demo",
+  "productionReady": false,
+  "validationScope": "Local synthetic fixtures, documented sample rules, automated tests and type checks where applicable"
+}
